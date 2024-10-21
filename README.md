@@ -7,7 +7,7 @@ Allows updating album details by clicking the "update" button and modifying the 
 Dependencies
 This component depends on the following libraries:
 
-React: "^16.8.0" or higher
+
 Make sure these dependencies are installed in your project.
 
 # API Usage
